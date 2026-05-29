@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" width="520" height="380" role="img" aria-label="Zwei begeisterte Kinder: eines hält ein aufgeschlagenes Buch hoch, das andere eine leuchtende Glühbirne">
+  <title>Zwei begeisterte Kinder – fOERdern</title>
+
+  <!-- Funkel-Sterne -->
+  <g fill="#7EBB3E">
+    <path d="M60,70 Q60,84 74,84 Q60,84 60,98 Q60,84 46,84 Q60,84 60,70 Z"/>
+    <path d="M470,300 Q470,312 482,312 Q470,312 470,324 Q470,312 458,312 Q470,312 470,300 Z"/>
+  </g>
+  <g fill="#5CA152">
+    <path d="M256,52 Q256,62 266,62 Q256,62 256,72 Q256,62 246,62 Q256,62 256,52 Z"/>
+    <path d="M40,250 Q40,259 49,259 Q40,259 40,268 Q40,259 31,259 Q40,259 40,250 Z"/>
+  </g>
+
+  <!-- Bodenschatten -->
+  <ellipse cx="150" cy="320" rx="80" ry="14" fill="#5CA152" opacity="0.12"/>
+  <ellipse cx="372" cy="320" rx="80" ry="14" fill="#5CA152" opacity="0.12"/>
+
+  <!-- ================= KIND A (links, Buch) ================= -->
+  <g transform="translate(-32,18) scale(0.8)">
+    <g stroke="#2F5C2A" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M150,256 L150,318 Q150,326 158,326 L168,326 Q174,326 174,318 L177,262 Z" fill="#355E2E"/>
+      <path d="M210,256 L210,318 Q210,326 202,326 L192,326 Q186,326 186,318 L183,262 Z" fill="#355E2E"/>
+      <path d="M150,318 Q146,336 160,336 L176,336 Q182,336 182,330 L182,322 Q166,328 150,318 Z" fill="#4B8443"/>
+      <path d="M210,318 Q214,336 200,336 L184,336 Q178,336 178,330 L178,322 Q194,328 210,318 Z" fill="#4B8443"/>
+      <path d="M147,206 Q180,198 213,206 L219,258 Q180,270 141,258 Z" fill="#5CA152"/>
+      <path d="M171,190 L171,206 Q180,210 189,206 L189,190 Z" fill="#F0C49B"/>
+      <path d="M156,210 C146,172 140,134 138,108" fill="none" stroke="#F0C49B" stroke-width="15"/>
+      <path d="M156,210 C146,172 140,134 138,108" fill="none" stroke="#2F5C2A" stroke-width="2.2"/>
+      <path d="M204,210 C214,172 220,134 222,108" fill="none" stroke="#F0C49B" stroke-width="15"/>
+      <path d="M204,210 C214,172 220,134 222,108" fill="none" stroke="#2F5C2A" stroke-width="2.2"/>
+      <path d="M150,206 Q156,222 168,216 Q160,202 158,196 Z" fill="#4B8443" stroke="none"/>
+      <path d="M210,206 Q204,222 192,216 Q200,202 202,196 Z" fill="#4B8443" stroke="none"/>
+      <circle cx="180" cy="160" r="40" fill="#F0C49B"/>
+      <circle cx="141" cy="164" r="7" fill="#F0C49B"/>
+      <circle cx="219" cy="164" r="7" fill="#F0C49B"/>
+      <path d="M141,156 Q138,116 180,114 Q222,116 219,156 Q214,138 198,134 Q200,146 188,144 Q190,132 178,132 Q166,134 168,146 Q156,144 158,132 Q146,140 141,156 Z" fill="#6B4423"/>
+    </g>
+    <path d="M160,144 Q167,139 174,143" fill="none" stroke="#6B4423" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="M186,143 Q193,139 200,144" fill="none" stroke="#6B4423" stroke-width="2.6" stroke-linecap="round"/>
+    <circle cx="167" cy="156" r="4.6" fill="#2F2A26"/>
+    <circle cx="193" cy="156" r="4.6" fill="#2F2A26"/>
+    <circle cx="168.6" cy="154.4" r="1.5" fill="#FFFFFF"/>
+    <circle cx="194.6" cy="154.4" r="1.5" fill="#FFFFFF"/>
+    <circle cx="153" cy="172" r="6.5" fill="#F2A6A6" opacity="0.75"/>
+    <circle cx="207" cy="172" r="6.5" fill="#F2A6A6" opacity="0.75"/>
+    <path d="M166,170 Q180,194 194,170 Q180,178 166,170 Z" fill="#9E3B33"/>
+    <path d="M168,170 Q180,174 192,170 Q180,172 168,170 Z" fill="#FFFFFF"/>
+    <g stroke="#2F5C2A" stroke-width="2.4" stroke-linejoin="round">
+      <path d="M180,58 L128,80 L136,110 L180,96 Z" fill="#5CA152"/>
+      <path d="M180,58 L232,80 L224,110 L180,96 Z" fill="#4B8443"/>
+      <path d="M180,62 L138,80 L144,104 L180,92 Z" fill="#FFFFFF"/>
+      <path d="M180,62 L222,80 L216,104 L180,92 Z" fill="#FFFFFF"/>
+    </g>
+    <g stroke="#9BB58F" stroke-width="2" stroke-linecap="round">
+      <path d="M152,82 L172,76"/><path d="M153,90 L173,84"/><path d="M154,98 L174,92"/>
+      <path d="M208,82 L188,76"/><path d="M207,90 L187,84"/><path d="M206,98 L186,92"/>
+    </g>
+    <circle cx="138" cy="108" r="9" fill="#F0C49B" stroke="#2F5C2A" stroke-width="2.4"/>
+    <circle cx="222" cy="108" r="9" fill="#F0C49B" stroke="#2F5C2A" stroke-width="2.4"/>
+  </g>
+
+  <!-- ================= KIND B (rechts, Glühbirne) ================= -->
+  <g transform="translate(250,18) scale(0.8)">
+    <g stroke="#2F5C2A" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M150,256 L150,318 Q150,326 158,326 L168,326 Q174,326 174,318 L177,262 Z" fill="#355E2E"/>
+      <path d="M210,256 L210,318 Q210,326 202,326 L192,326 Q186,326 186,318 L183,262 Z" fill="#355E2E"/>
+      <path d="M150,318 Q146,336 160,336 L176,336 Q182,336 182,330 L182,322 Q166,328 150,318 Z" fill="#4B8443"/>
+      <path d="M210,318 Q214,336 200,336 L184,336 Q178,336 178,330 L178,322 Q194,328 210,318 Z" fill="#4B8443"/>
+      <path d="M147,206 Q180,198 213,206 L219,258 Q180,270 141,258 Z" fill="#7EBB3E"/>
+      <path d="M171,190 L171,206 Q180,210 189,206 L189,190 Z" fill="#C68642"/>
+      <path d="M156,210 C150,176 158,138 170,108" fill="none" stroke="#C68642" stroke-width="15"/>
+      <path d="M156,210 C150,176 158,138 170,108" fill="none" stroke="#2F5C2A" stroke-width="2.2"/>
+      <path d="M204,210 C210,176 202,138 190,108" fill="none" stroke="#C68642" stroke-width="15"/>
+      <path d="M204,210 C210,176 202,138 190,108" fill="none" stroke="#2F5C2A" stroke-width="2.2"/>
+      <path d="M150,206 Q156,222 168,216 Q160,202 158,196 Z" fill="#5CA152" stroke="none"/>
+      <path d="M210,206 Q204,222 192,216 Q200,202 202,196 Z" fill="#5CA152" stroke="none"/>
+      <circle cx="180" cy="160" r="40" fill="#C68642"/>
+      <circle cx="141" cy="164" r="7" fill="#C68642"/>
+      <circle cx="219" cy="164" r="7" fill="#C68642"/>
+      <path d="M139,158 Q134,118 160,112 Q170,104 184,110 Q214,112 221,150 Q224,138 216,132 Q220,124 210,122 Q210,114 200,116 Q196,108 186,112 Q178,106 170,112 Q158,110 154,120 Q144,120 144,132 Q136,134 139,158 Z" fill="#2E2A26"/>
+    </g>
+    <path d="M160,144 Q167,139 174,143" fill="none" stroke="#2E2A26" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="M186,143 Q193,139 200,144" fill="none" stroke="#2E2A26" stroke-width="2.6" stroke-linecap="round"/>
+    <circle cx="167" cy="156" r="4.6" fill="#2F2A26"/>
+    <circle cx="193" cy="156" r="4.6" fill="#2F2A26"/>
+    <circle cx="168.6" cy="154.4" r="1.5" fill="#FFFFFF"/>
+    <circle cx="194.6" cy="154.4" r="1.5" fill="#FFFFFF"/>
+    <circle cx="153" cy="173" r="6.5" fill="#B5675A" opacity="0.55"/>
+    <circle cx="207" cy="173" r="6.5" fill="#B5675A" opacity="0.55"/>
+    <path d="M166,170 Q180,194 194,170 Q180,178 166,170 Z" fill="#7A2C26"/>
+    <path d="M168,170 Q180,174 192,170 Q180,172 168,170 Z" fill="#FFFFFF"/>
+    <circle cx="180" cy="78" r="26" fill="#FFE08A" opacity="0.4"/>
+    <g stroke="#E0A41E" stroke-width="3" stroke-linecap="round">
+      <path d="M180,46 L180,36"/>
+      <path d="M158,56 L151,49"/>
+      <path d="M202,56 L209,49"/>
+      <path d="M150,78 L140,78"/>
+      <path d="M210,78 L220,78"/>
+    </g>
+    <path d="M162,78 a18,18 0 1 1 36,0 c0,9 -6,13 -7,20 l-22,0 c-1,-7 -7,-11 -7,-20 Z" fill="#FFF6DA" stroke="#2F5C2A" stroke-width="2.4" stroke-linejoin="round"/>
+    <path d="M173,82 q7,8 14,0" fill="none" stroke="#E0A41E" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M180,72 L180,86" stroke="#E0A41E" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M170,98 l20,0 l-2,10 l-16,0 Z" fill="#B9B2A0" stroke="#2F5C2A" stroke-width="2.4" stroke-linejoin="round"/>
+    <path d="M172,103 l16,0" stroke="#8C8676" stroke-width="2"/>
+    <circle cx="170" cy="108" r="9" fill="#C68642" stroke="#2F5C2A" stroke-width="2.4"/>
+    <circle cx="190" cy="108" r="9" fill="#C68642" stroke="#2F5C2A" stroke-width="2.4"/>
+  </g>
+</svg>

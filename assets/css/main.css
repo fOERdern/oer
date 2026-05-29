@@ -2201,3 +2201,14 @@ textarea {
 .feed__item .entry__title a:hover {
   color: var(--color);
 }
+
+/* Startseiten-Illustration (zwei Kinder) im Hero */
+.hero__illustration {
+  margin: calc(var(--baseline) * 5) var(--page-margin) 0;
+  text-align: center;
+}
+.hero__illustration img {
+  width: 100%;
+  max-width: 560px;
+  height: auto;
+}
