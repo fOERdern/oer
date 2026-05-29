@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "fOERdern",
+    "description": "",
+    "home_page_url": "https://foerdern.github.io/oer",
+    "feed_url": "https://foerdern.github.io/oer/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sophie"
+    },
+    "items": [
+        {
+            "id": "https://foerdern.github.io/oer/hier-ist-ein-erster-beitrag.html",
+            "url": "https://foerdern.github.io/oer/hier-ist-ein-erster-beitrag.html",
+            "title": " &quot;Durch den Dschungel&quot; - eine bewegte Reise ",
+            "summary": "Ins Gleichgewicht kommen, Gespür für sich selbst entwickeln, Körperbewegungen entdecken - der Weg durch den Dschungel auf der Suche nach dem geheimnisvollen Schlüssel kann aufregend, lustig, spannend und manchmal ganz schön herausfordernd sein. Doch am Ende steht eine große Zufriedenheit, es als Teil eines Teams&hellip;",
+            "content_html": "<p>Ins Gleichgewicht kommen, Gespür für sich selbst entwickeln, Körperbewegungen entdecken - der Weg durch den Dschungel auf der Suche nach dem geheimnisvollen Schlüssel kann aufregend, lustig, spannend und manchmal ganz schön herausfordernd sein. Doch am Ende steht eine große Zufriedenheit, es als Teil eines Teams geschafft zu haben, den goldenen Schlüssel zu entdecken. </p>\n<p> </p>\n<p>Umfang: 10 Unterrichtsstunden à 45 Minuten</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Sophie"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-04T09:14:37+01:00",
+            "date_modified": "2026-05-29T16:01:41+02:00"
+        }
+    ]
+}
